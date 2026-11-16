@@ -14,13 +14,5 @@
     "date": "2026-11-20",
     "type": "promo",
     "icon": "fas fa-gift"
-  },
-  {
-    "id": "tb_03",
-    "title": "Bảo trì hệ thống",
-    "content": "Hệ thống thanh toán sẽ tạm bảo trì vào lúc 2h sáng ngày 25/11/2026. Mong bạn thông cảm.",
-    "date": "2026-11-25",
-    "type": "warning",
-    "icon": "fas fa-exclamation-triangle"
   }
 ]
