@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tb_01",
+    "title": "Chào mừng đến với Shop!",
+    "content": "Chào mừng bạn đến với cửa hàng của QuangDai. Hiện tại mình đang có các sản phẩm Source Code chất lượng cao, hỗ trợ cài đặt tận tình.",
+    "date": "2026-11-15",
+    "type": "info",
+    "icon": "fas fa-bullhorn"
+  },
+  {
+    "id": "tb_02",
+    "title": "Khuyến mãi cuối năm",
+    "content": "Giảm giá 20% cho tất cả sản phẩm từ 20/11 đến 30/11. Nhanh tay sở hữu ngay!",
+    "date": "2026-11-20",
+    "type": "promo",
+    "icon": "fas fa-gift"
+  },
+  {
+    "id": "tb_03",
+    "title": "Bảo trì hệ thống",
+    "content": "Hệ thống thanh toán sẽ tạm bảo trì vào lúc 2h sáng ngày 25/11/2026. Mong bạn thông cảm.",
+    "date": "2026-11-25",
+    "type": "warning",
+    "icon": "fas fa-exclamation-triangle"
+  }
+]

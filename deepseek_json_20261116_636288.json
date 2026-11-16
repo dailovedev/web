@@ -1,0 +1,34 @@
+[
+  {
+    "id": "sp_01",
+    "name": "Source Code App Android",
+    "description": "Ứng dụng di động viết bằng Kotlin, giao diện Glassmorphism hiện đại, tối ưu hiệu năng.",
+    "price": 150000,
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg",
+    "status": "available"
+  },
+  {
+    "id": "sp_02",
+    "name": "Tool Automation Python",
+    "description": "Bot tự động hóa quy trình làm việc, xuất file EXE chạy trực tiếp trên Windows.",
+    "price": 250000,
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg",
+    "status": "available"
+  },
+  {
+    "id": "sp_03",
+    "name": "Hệ Thống Backend Java",
+    "description": "REST API bảo mật cao viết bằng Spring Boot, kiến trúc Microservices.",
+    "price": 500000,
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg",
+    "status": "available"
+  },
+  {
+    "id": "sp_04",
+    "name": "Combo Web Ultimate",
+    "description": "Trọn bộ Source Code HTML/CSS/JS cho Bio cá nhân và Shop, giao diện Liquid Glass.",
+    "price": 300000,
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+    "status": "out_of_stock"
+  }
+]

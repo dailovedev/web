@@ -1,0 +1,27 @@
+{
+  "profile": {
+    "name": "Nguyen Quang Dai",
+    "title": "Fullstack Developer & Mobile App Creator",
+    "avatar": "https://raw.githubusercontent.com/dailovedev/website/main/logo.png"
+  },
+  "socials": [
+    {
+      "platform": "TikTok",
+      "icon": "fab fa-tiktok",
+      "url": "https://www.tiktok.com/@your_tiktok",
+      "class": "tiktok"
+    },
+    {
+      "platform": "Telegram",
+      "icon": "fab fa-telegram-plane",
+      "url": "https://t.me/your_telegram",
+      "class": "telegram"
+    },
+    {
+      "platform": "Facebook",
+      "icon": "fab fa-facebook-f",
+      "url": "https://www.facebook.com/your_facebook",
+      "class": "facebook"
+    }
+  ]
+}
